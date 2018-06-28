@@ -1,0 +1,22 @@
+.thumbnail {
+    border: none;
+}
+
+.caption p {
+    text-align: center;
+    position: relative;
+    top: -5px;
+}
+
+.imgbox {
+    margin-top: 50px;
+}
+
+.row {
+    margin: 0;
+    padding: 0;
+}
+
+.nav li {
+    margin-right: 4%;
+}
